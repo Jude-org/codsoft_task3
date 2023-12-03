@@ -62,5 +62,9 @@ form .display{
     transition: 0.3s ease-in-out;
 }
 
+#equalButton {
+    background-color: rgb(166, 255, 0);
+}
+
 
 
